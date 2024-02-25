@@ -3,11 +3,11 @@ body {
   margin: 0 !important;
   padding: 0 !important;
 }
-/* html {
+html {
   overflow-x: hidden;
   margin: 0;
   padding: 0;
-} */
+}
 .gradient-background {
   background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
   background-size: 180% 180%;
@@ -67,7 +67,7 @@ body {
 }
 .title-txt {
   font-weight: 700;
-  font-size: 2.5rem;
+  font-size: 2.5em;
 }
 .title-btn-div {
   gap: 20px;
